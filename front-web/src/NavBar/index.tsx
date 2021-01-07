@@ -1,5 +1,5 @@
-import './stales.css';
-import { ReactComponent as Logo } from '../Assets/logo.svg';
+import './styles.css';
+import { ReactComponent as Logo } from './logo.svg';
 
 function NavBar() {
     return (
